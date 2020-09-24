@@ -1,2 +1,2 @@
-# C-mas-mas
+# C++
 Programas básicos de programación en C++
